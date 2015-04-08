@@ -1,0 +1,1 @@
+This project performs simple DSP on low-cost STM8 microcomtrollers
